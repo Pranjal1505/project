@@ -1,3 +1,12 @@
+# Requirements
+- Python 3.x
+- PIL (Pillow)
+- Tkinter (usually included with Python)
+
+# License
+This project is intended for educational and research use only.
+
+# stegotool.py file contain the python code to run this code.
 
 # How to Use
 
@@ -34,11 +43,3 @@ Click Help ❓ for a summary of the tool's usage and security features.
 - Image formats: .png, .bmp
 - Data types: Text, Images, Videos, Documents (any file type)
 
-# Requirements
-- Python 3.x
-- PIL (Pillow)
-- Tkinter (usually included with Python)
-
-# License
-This project is intended for educational and research use only.
-# stegotool.py file contain the python code to run this code.
