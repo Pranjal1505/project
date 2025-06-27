@@ -41,4 +41,4 @@ Click Help ❓ for a summary of the tool's usage and security features.
 
 # License
 This project is intended for educational and research use only.
-
+# stegotool.py file contain the python code to run this code.
