@@ -1,7 +1,27 @@
 # Requirements
 - Python 3.x
+  Step-by-Step: Installing Python on Windows
+Go to the official Python website:
+https://www.python.org/downloads
+Download the latest Python 3.x version
+Click on the yellow “Download Python 3.x.x” button.
+Run the installer
+Double-click the downloaded .exe file.
+IMPORTANT: Check the box that says
+“Add Python to PATH” (at the bottom of the installer window)
+Click "Install Now"
+Wait for the installation to finish.
+Verify installation
+       - python --version
+
 - PIL (Pillow)
+  Pillow is a Python Imaging Library used for image processing.
+  To install it, use:
+       - pip install Pillow
+  
 - Tkinter (usually included with Python)
+  Tkinter is a built-in library in most Python installations and is used for creating GUIs.
+  On Windows, it's usually pre-installed.
 
 # License
 This project is intended for educational and research use only.
