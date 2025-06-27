@@ -23,9 +23,6 @@ Verify installation
   Tkinter is a built-in library in most Python installations and is used for creating GUIs.
   On Windows, it's usually pre-installed.
 
-# License
-This project is intended for educational and research use only.
-
 # stegotool.py file contain the python code to run this code.
 
 # How to Use
@@ -62,4 +59,7 @@ Click Help ❓ for a summary of the tool's usage and security features.
 # Note : File Types Supported
 - Image formats: .png, .bmp
 - Data types: Text, Images, Videos, Documents (any file type)
+
+# License
+This project is intended for educational and research use only.
 
